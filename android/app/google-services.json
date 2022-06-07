@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848855037030",
+    "project_id": "fluter-login-cd2a2",
+    "storage_bucket": "fluter-login-cd2a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848855037030:android:aa0c3849b810f4ca34a9a7",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848855037030-prjc3q1i0c342dbfladb5cfu1fmp8i94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6tsWhyTGKLh0T7NEY_8OrAk2rCpXx5mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848855037030-prjc3q1i0c342dbfladb5cfu1fmp8i94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
